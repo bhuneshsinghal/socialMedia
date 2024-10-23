@@ -1,0 +1,66 @@
+.app-container {
+    display: flex;
+}
+
+.content{
+    width: 100%;
+}
+
+.sidebar {
+    min-height: 737px;
+}
+
+.post-card {
+    margin: 20px 50px;
+}
+
+.badgePr {
+    margin : 3px;
+}
+
+.cardBeauty {
+    border-radius: 3px;
+}
+
+.deletePost {
+    margin-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#body{
+    max-width: 80%;
+}
+
+.createPost {
+    margin: 30px;
+    margin-left: 70px;
+    width: 80%;
+}
+
+.createPost input {
+    width: 80%;
+}
+
+.createPost textarea {
+    width: 80%;
+}
+
+.createPostButton {
+    margin: 40px;
+    margin-left: 0px;
+}
+.small-item {
+    font-size: small;
+    font-weight: bold;
+}
+.Author {
+    float: right;
+}
+.Likes {
+    float: left;
+}
+
+.likesAuthor{
+    height: 50px;
+    margin-top: 30px;
+}
